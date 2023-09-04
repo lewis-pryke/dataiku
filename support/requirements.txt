@@ -1,0 +1,10 @@
+ipykernel
+pandas
+numpy
+seaborn
+scikit-learn
+pandas_profiling
+matplotlib
+joblib
+os
+shap
